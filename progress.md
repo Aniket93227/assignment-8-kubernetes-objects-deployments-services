@@ -21,3 +21,8 @@
 - Scaled the Nginx Deployment from two to three replicas.
 - Verified that all three Pods became ready.
 - Confirmed the Deployment replica count.
+
+## Milestone 5: Rolling Update
+- Updated the Nginx container image from nginx:1.26 to nginx:1.27.
+- Applied the updated Deployment manifest.
+- Verified rollout status and replica availability.
