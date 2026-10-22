@@ -16,3 +16,8 @@
 - Configured two replicas.
 - Created a ClusterIP Service.
 - Verified Deployment rollout, Pods, and Service.
+
+## Milestone 4: Scaling
+- Scaled the Nginx Deployment from two to three replicas.
+- Verified that all three Pods became ready.
+- Confirmed the Deployment replica count.
