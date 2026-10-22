@@ -10,3 +10,9 @@
 - Created the devops-demo Namespace.
 - Created the nginx-config ConfigMap.
 - Verified the resources using kubectl.
+
+## Milestone 3: Nginx Deployment and Service
+- Deployed Nginx using a Kubernetes Deployment.
+- Configured two replicas.
+- Created a ClusterIP Service.
+- Verified Deployment rollout, Pods, and Service.
